@@ -1,16 +1,29 @@
 from scrapy import Spider, Selector
 from stack.items import StackItem
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors import LinkExtractor
+from scrapy.selector import HtmlXPathSelector
+import sys
+import getopt
 
-class StackSpider(Spider):
-    name = "stack"
+class PageCrawlSpider(CrawlSpider):
+    name = "stackcrawler"
     allowed_domains = ["stackoverflow.com"]
     start_urls = [
-        "http://stackoverflow.com/questions?pagesize=50&sort=newest",
+        "http://stackoverflow.com/questions?sort=newest",
     ]
+    rules = (
+        Rule(
+            LinkExtractor(allow=(r'&page=\d')),
+            callback='parse_item',
+            follow=True
+        ),
+    )
 
-    def parse(self, response):
-        questions = Selector(response).xpath('//div[@class="summary"]/h3')
-
+    def parse_item(self, response):
+        keyword = str(self.keyword);
+        hxs = HtmlXPathSelector(response)
+        questions = hxs.xpath('//div[@class="summary"]/h3[contains(., "' + keyword + '")]')
         for question in questions:
             item = StackItem()
             item['title'] = question.xpath(
