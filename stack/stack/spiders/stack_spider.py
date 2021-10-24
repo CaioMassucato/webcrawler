@@ -2,7 +2,7 @@ from scrapy import Spider, Selector
 from stack.items import StackItem
 from scrapy.spiders import CrawlSpider, Rule
 from scrapy.linkextractors import LinkExtractor
-from scrapy.selector import HtmlXPathSelector
+from scrapy.selector import Selector
 import sys
 import getopt
 
@@ -22,7 +22,7 @@ class PageCrawlSpider(CrawlSpider):
 
     def parse_item(self, response):
         keyword = str(self.keyword);
-        hxs = HtmlXPathSelector(response)
+        hxs = Selector(response)
         questions = hxs.xpath('//div[@class="summary"]/h3[contains(., "' + keyword + '")]')
         for question in questions:
             item = StackItem()
