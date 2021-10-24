@@ -1,0 +1,978 @@
+2021-10-24 15:35:05 [scrapy] DEBUG: Redirecting (301) to <GET https://stackoverflow.com/questions?sort=newest> from <GET http://stackoverflow.com/questions?sort=newest>
+2021-10-24 15:35:05 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?sort=newest> (referer: None)
+2021-10-24 15:35:06 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=2> (referer: https://stackoverflow.com/questions?sort=newest)
+2021-10-24 15:35:06 [scrapy] DEBUG: Filtered duplicate request: <GET https://stackoverflow.com/questions?tab=newest&page=2> - no more duplicates will be shown (see DUPEFILTER_DEBUG to show all duplicates)
+2021-10-24 15:35:06 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=4> (referer: https://stackoverflow.com/questions?sort=newest)
+2021-10-24 15:35:06 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436488> (referer: https://stackoverflow.com/questions?sort=newest)
+2021-10-24 15:35:06 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=5> (referer: https://stackoverflow.com/questions?sort=newest)
+2021-10-24 15:35:06 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=3> (referer: https://stackoverflow.com/questions?sort=newest)
+2021-10-24 15:35:06 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=4>
+{'title': 'If I push python code, that has information containing host and key '
+          'parameters, onto github, is that exposing me to malicious attack?',
+ 'url': '/questions/69699378/if-i-push-python-code-that-has-information-containing-host-and-key-parameters'}
+2021-10-24 15:35:06 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=4>
+{'title': 'Is there any way to get the python souce code from an exe file made '
+          'from pyinstaller',
+ 'url': '/questions/69699340/is-there-any-way-to-get-the-python-souce-code-from-an-exe-file-made-from-pyinsta'}
+2021-10-24 15:35:06 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=4>
+{'title': 'How to print the first result wikipedia data discord python',
+ 'url': '/questions/69699308/how-to-print-the-first-result-wikipedia-data-discord-python'}
+2021-10-24 15:35:07 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=1> (referer: https://stackoverflow.com/questions?tab=newest&page=2)
+2021-10-24 15:35:07 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=3>
+{'title': 'So I made a file editing program in python... and one of the '
+          "functions isn't working right",
+ 'url': '/questions/69699478/so-i-made-a-file-editing-program-in-python-and-one-of-the-functions-isnt-wor'}
+2021-10-24 15:35:07 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=3>
+{'title': 'Re run a specific python function if a response is received in a '
+          'previous function',
+ 'url': '/questions/69699466/re-run-a-specific-python-function-if-a-response-is-received-in-a-previous-functi'}
+2021-10-24 15:35:07 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=3>
+{'title': 'Is is possible to run a python project in google colab?',
+ 'url': '/questions/69699435/is-is-possible-to-run-a-python-project-in-google-colab'}
+2021-10-24 15:35:07 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=3>
+{'title': 'How can I animate a python pcolormesh using an existing 3D array '
+          'where the third axis is the time steps?',
+ 'url': '/questions/69699433/how-can-i-animate-a-python-pcolormesh-using-an-existing-3d-array-where-the-third'}
+2021-10-24 15:35:07 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=1>
+{'title': 'How to ask python docx to write in italic type just',
+ 'url': '/questions/69699665/how-to-ask-python-docx-to-write-in-italic-type-just'}
+2021-10-24 15:35:07 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436484> (referer: https://stackoverflow.com/questions?tab=newest&page=436488)
+2021-10-24 15:35:08 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=7> (referer: https://stackoverflow.com/questions?tab=newest&page=5)
+2021-10-24 15:35:08 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436486> (referer: https://stackoverflow.com/questions?tab=newest&page=436488)
+2021-10-24 15:35:08 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=6> (referer: https://stackoverflow.com/questions?tab=newest&page=5)
+2021-10-24 15:35:08 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436485> (referer: https://stackoverflow.com/questions?tab=newest&page=436488)
+2021-10-24 15:35:08 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=7>
+{'title': 'python pandas - optimal way to handle nested groupby',
+ 'url': '/questions/69699054/python-pandas-optimal-way-to-handle-nested-groupby'}
+2021-10-24 15:35:08 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=6>
+{'title': 'downgrade python in kali linux 2021.3',
+ 'url': '/questions/69699152/downgrade-python-in-kali-linux-2021-3'}
+2021-10-24 15:35:08 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436487> (referer: https://stackoverflow.com/questions?tab=newest&page=436488)
+2021-10-24 15:35:09 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436482> (referer: https://stackoverflow.com/questions?tab=newest&page=436484)
+2021-10-24 15:35:09 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436483> (referer: https://stackoverflow.com/questions?tab=newest&page=436484)
+2021-10-24 15:35:09 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=9> (referer: https://stackoverflow.com/questions?tab=newest&page=7)
+2021-10-24 15:35:09 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=8> (referer: https://stackoverflow.com/questions?tab=newest&page=7)
+2021-10-24 15:35:09 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=9>
+{'title': 'Inserting a node in Binary search tree in python',
+ 'url': '/questions/69698822/inserting-a-node-in-binary-search-tree-in-python'}
+2021-10-24 15:35:09 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=8>
+{'title': 'Randomly replace certain words in python using a dictionary',
+ 'url': '/questions/69698970/randomly-replace-certain-words-in-python-using-a-dictionary'}
+2021-10-24 15:35:09 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=8>
+{'title': 'How to get list of tuples from list of zip objects? [python] '
+          '[duplicate]',
+ 'url': '/questions/69698918/how-to-get-list-of-tuples-from-list-of-zip-objects-python'}
+2021-10-24 15:35:09 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436481> (referer: https://stackoverflow.com/questions?tab=newest&page=436482)
+2021-10-24 15:35:09 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436480> (referer: https://stackoverflow.com/questions?tab=newest&page=436482)
+2021-10-24 15:35:10 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=10> (referer: https://stackoverflow.com/questions?tab=newest&page=9)
+2021-10-24 15:35:10 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=11> (referer: https://stackoverflow.com/questions?tab=newest&page=9)
+2021-10-24 15:35:10 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436479> (referer: https://stackoverflow.com/questions?tab=newest&page=436481)
+2021-10-24 15:35:10 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436478> (referer: https://stackoverflow.com/questions?tab=newest&page=436480)
+2021-10-24 15:35:11 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=12> (referer: https://stackoverflow.com/questions?tab=newest&page=10)
+2021-10-24 15:35:11 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=13> (referer: https://stackoverflow.com/questions?tab=newest&page=11)
+2021-10-24 15:35:11 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=12>
+{'title': 'How to run installed whl format of a python project',
+ 'url': '/questions/69698529/how-to-run-installed-whl-format-of-a-python-project'}
+2021-10-24 15:35:11 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=12>
+{'title': 'I am facing a problem with python datetime objects, specifically '
+          'the datetime.timedelta()',
+ 'url': '/questions/69698440/i-am-facing-a-problem-with-python-datetime-objects-specifically-the-datetime-ti'}
+2021-10-24 15:35:11 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=13>
+{'title': 'Trying to update an array by changing its value in python '
+          '[duplicate]',
+ 'url': '/questions/69698400/trying-to-update-an-array-by-changing-its-value-in-python'}
+2021-10-24 15:35:11 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436476> (referer: https://stackoverflow.com/questions?tab=newest&page=436478)
+2021-10-24 15:35:11 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436477> (referer: https://stackoverflow.com/questions?tab=newest&page=436479)
+2021-10-24 15:35:11 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=14> (referer: https://stackoverflow.com/questions?tab=newest&page=12)
+2021-10-24 15:35:12 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=15> (referer: https://stackoverflow.com/questions?tab=newest&page=13)
+2021-10-24 15:35:12 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=14>
+{'title': 'Get value after button click with python',
+ 'url': '/questions/69698266/get-value-after-button-click-with-python'}
+2021-10-24 15:35:12 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=14>
+{'title': 'Add a new column to a dataframe from a Series or dictionary mapping '
+          'my series index and a dataframe column to key pandas python',
+ 'url': '/questions/69698259/add-a-new-column-to-a-dataframe-from-a-series-or-dictionary-mapping-my-series-in'}
+2021-10-24 15:35:12 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=14>
+{'title': 'Coping files in python using shutil.copy2 [duplicate]',
+ 'url': '/questions/69698243/coping-files-in-python-using-shutil-copy2'}
+2021-10-24 15:35:12 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=15>
+{'title': 'How to access a file hosted on a public remote server (python)?',
+ 'url': '/questions/69698210/how-to-access-a-file-hosted-on-a-public-remote-server-python'}
+2021-10-24 15:35:12 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436474> (referer: https://stackoverflow.com/questions?tab=newest&page=436476)
+2021-10-24 15:35:12 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436475> (referer: https://stackoverflow.com/questions?tab=newest&page=436476)
+2021-10-24 15:35:12 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=17> (referer: https://stackoverflow.com/questions?tab=newest&page=15)
+2021-10-24 15:35:12 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=16> (referer: https://stackoverflow.com/questions?tab=newest&page=14)
+2021-10-24 15:35:12 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=17>
+{'title': 'Working function in python however my test still fails? [duplicate]',
+ 'url': '/questions/69697991/working-function-in-python-however-my-test-still-fails'}
+2021-10-24 15:35:13 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=16>
+{'title': 'Manually calculate NPV python?',
+ 'url': '/questions/69698078/manually-calculate-npv-python'}
+2021-10-24 15:35:13 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=16>
+{'title': 'How to save geolocation (location) of a user in Telegram using '
+          'sqlite3 and python database?',
+ 'url': '/questions/69698030/how-to-save-geolocation-location-of-a-user-in-telegram-using-sqlite3-and-pytho'}
+2021-10-24 15:35:13 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436473> (referer: https://stackoverflow.com/questions?tab=newest&page=436474)
+2021-10-24 15:35:13 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436472> (referer: https://stackoverflow.com/questions?tab=newest&page=436474)
+2021-10-24 15:35:13 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=19> (referer: https://stackoverflow.com/questions?tab=newest&page=17)
+2021-10-24 15:35:13 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=18> (referer: https://stackoverflow.com/questions?tab=newest&page=17)
+2021-10-24 15:35:14 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=19>
+{'title': 'How to learn two different neural networks in one run_generation '
+          'function using python neat?',
+ 'url': '/questions/69697785/how-to-learn-two-different-neural-networks-in-one-run-generation-function-using'}
+2021-10-24 15:35:14 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436471> (referer: https://stackoverflow.com/questions?tab=newest&page=436473)
+2021-10-24 15:35:14 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436470> (referer: https://stackoverflow.com/questions?tab=newest&page=436472)
+2021-10-24 15:35:14 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=20> (referer: https://stackoverflow.com/questions?tab=newest&page=19)
+2021-10-24 15:35:14 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=21> (referer: https://stackoverflow.com/questions?tab=newest&page=19)
+2021-10-24 15:35:14 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=20>
+{'title': 'Why does python think a variable defined as a global variable is a '
+          'local variable in a function?',
+ 'url': '/questions/69697649/why-does-python-think-a-variable-defined-as-a-global-variable-is-a-local-variabl'}
+2021-10-24 15:35:14 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=20>
+{'title': 'Having issues with python functions',
+ 'url': '/questions/69697620/having-issues-with-python-functions'}
+2021-10-24 15:35:15 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=21>
+{'title': 'I get this error when strip list into python [closed]',
+ 'url': '/questions/69697572/i-get-this-error-when-strip-list-into-python'}
+2021-10-24 15:35:15 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436468> (referer: https://stackoverflow.com/questions?tab=newest&page=436470)
+2021-10-24 15:35:15 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436469> (referer: https://stackoverflow.com/questions?tab=newest&page=436471)
+2021-10-24 15:35:15 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=22> (referer: https://stackoverflow.com/questions?tab=newest&page=20)
+2021-10-24 15:35:15 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=23> (referer: https://stackoverflow.com/questions?tab=newest&page=21)
+2021-10-24 15:35:15 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=22>
+{'title': 'python3 script in .exe launches and closes instantly after '
+          '[duplicate]',
+ 'url': '/questions/69697419/python3-script-in-exe-launches-and-closes-instantly-after'}
+2021-10-24 15:35:15 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=22>
+{'title': 'python - RuntimeError: threads can only be started once',
+ 'url': '/questions/69697398/python-runtimeerror-threads-can-only-be-started-once'}
+2021-10-24 15:35:15 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=23>
+{'title': 'python create multiple year daterange with specific end date for '
+          'every year',
+ 'url': '/questions/69697354/python-create-multiple-year-daterange-with-specific-end-date-for-every-year'}
+2021-10-24 15:35:15 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=23>
+{'title': "python's: AttributeError: 'str' object has no attribute 'keys'",
+ 'url': '/questions/69697347/pythons-attributeerror-str-object-has-no-attribute-keys'}
+2021-10-24 15:35:16 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436466> (referer: https://stackoverflow.com/questions?tab=newest&page=436468)
+2021-10-24 15:35:16 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436467> (referer: https://stackoverflow.com/questions?tab=newest&page=436468)
+2021-10-24 15:35:16 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=24> (referer: https://stackoverflow.com/questions?tab=newest&page=22)
+2021-10-24 15:35:16 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=25> (referer: https://stackoverflow.com/questions?tab=newest&page=23)
+2021-10-24 15:35:16 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=24>
+{'title': 'Counting in chars using list in python',
+ 'url': '/questions/69697263/counting-in-chars-using-list-in-python'}
+2021-10-24 15:35:16 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=24>
+{'title': 'Incrementing chosen attribute in other file in python',
+ 'url': '/questions/69697219/incrementing-chosen-attribute-in-other-file-in-python'}
+2021-10-24 15:35:16 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436464> (referer: https://stackoverflow.com/questions?tab=newest&page=436466)
+2021-10-24 15:35:16 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436465> (referer: https://stackoverflow.com/questions?tab=newest&page=436466)
+2021-10-24 15:35:17 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=26> (referer: https://stackoverflow.com/questions?tab=newest&page=24)
+2021-10-24 15:35:17 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=27> (referer: https://stackoverflow.com/questions?tab=newest&page=25)
+2021-10-24 15:35:17 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=26>
+{'title': "unsupported operand type(s) for -: 'str' and 'int' gurobi python "
+          'for LP problem',
+ 'url': '/questions/69696978/unsupported-operand-types-for-str-and-int-gurobi-python-for-lp-problem'}
+2021-10-24 15:35:17 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=27>
+{'title': 'Convert years to months; and years to days using python [closed]',
+ 'url': '/questions/69696880/convert-years-to-months-and-years-to-days-using-python'}
+2021-10-24 15:35:17 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436463> (referer: https://stackoverflow.com/questions?tab=newest&page=436464)
+2021-10-24 15:35:17 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436462> (referer: https://stackoverflow.com/questions?tab=newest&page=436464)
+2021-10-24 15:35:18 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=28> (referer: https://stackoverflow.com/questions?tab=newest&page=26)
+2021-10-24 15:35:18 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=29> (referer: https://stackoverflow.com/questions?tab=newest&page=27)
+2021-10-24 15:35:18 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=28>
+{'title': 'How to replace tab with 4 spaces in an existing class in python '
+          '(spyder)',
+ 'url': '/questions/69696863/how-to-replace-tab-with-4-spaces-in-an-existing-class-in-python-spyder'}
+2021-10-24 15:35:18 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=29>
+{'title': 'Reading a non-uniform file into a single array in python',
+ 'url': '/questions/69696742/reading-a-non-uniform-file-into-a-single-array-in-python'}
+2021-10-24 15:35:18 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=29>
+{'title': "variable can't be equal to zero in python",
+ 'url': '/questions/69696716/variable-cant-be-equal-to-zero-in-python'}
+2021-10-24 15:35:18 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=29>
+{'title': 'problem with import some packages with python [closed]',
+ 'url': '/questions/69696667/problem-with-import-some-packages-with-python'}
+2021-10-24 15:35:18 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436461> (referer: https://stackoverflow.com/questions?tab=newest&page=436463)
+2021-10-24 15:35:18 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436460> (referer: https://stackoverflow.com/questions?tab=newest&page=436462)
+2021-10-24 15:35:18 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436461>
+{'title': 'Is there a python module for regex matching in zip files',
+ 'url': '/questions/14281/is-there-a-python-module-for-regex-matching-in-zip-files'}
+2021-10-24 15:35:19 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=30> (referer: https://stackoverflow.com/questions?tab=newest&page=28)
+2021-10-24 15:35:19 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=31> (referer: https://stackoverflow.com/questions?tab=newest&page=29)
+2021-10-24 15:35:19 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=30>
+{'title': 'Download file with google webcache instead of searching it (python '
+          'requests)',
+ 'url': '/questions/69696637/download-file-with-google-webcache-instead-of-searching-it-python-requests'}
+2021-10-24 15:35:19 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=30>
+{'title': 'How to make discord bot give some money after it is voted ? python '
+          '[closed]',
+ 'url': '/questions/69696627/how-to-make-discord-bot-give-some-money-after-it-is-voted-python'}
+2021-10-24 15:35:19 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=30>
+{'title': 'I have a password manager in python, but every time a user needs to '
+          'download it, they have to download python first [closed]',
+ 'url': '/questions/69696609/i-have-a-password-manager-in-python-but-every-time-a-user-needs-to-download-it'}
+2021-10-24 15:35:19 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=30>
+{'title': 'Appending a list to a class object (python)',
+ 'url': '/questions/69696577/appending-a-list-to-a-class-object-python'}
+2021-10-24 15:35:19 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=30>
+{'title': 'Antispam telegram bot python-telegram-bot',
+ 'url': '/questions/69696563/antispam-telegram-bot-python-telegram-bot'}
+2021-10-24 15:35:19 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=31>
+{'title': 'Iterating through dictionary values in python (.keys() in '
+          '.values()?)',
+ 'url': '/questions/69696509/iterating-through-dictionary-values-in-python-keys-in-values'}
+2021-10-24 15:35:19 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=31>
+{'title': 'Why we need to learn JavaScript for client side instead of python '
+          'or java or php? [closed]',
+ 'url': '/questions/69696478/why-we-need-to-learn-javascript-for-client-side-instead-of-python-or-java-or-php'}
+2021-10-24 15:35:19 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=31>
+{'title': 'Zsh terminal could not detect python after downloading and '
+          'installing python 3.9 via pyenv',
+ 'url': '/questions/69696443/zsh-terminal-could-not-detect-python-after-downloading-and-installing-python-3-9'}
+2021-10-24 15:35:19 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436459> (referer: https://stackoverflow.com/questions?tab=newest&page=436461)
+2021-10-24 15:35:19 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436458> (referer: https://stackoverflow.com/questions?tab=newest&page=436460)
+2021-10-24 15:35:19 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=32> (referer: https://stackoverflow.com/questions?tab=newest&page=30)
+2021-10-24 15:35:19 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=33> (referer: https://stackoverflow.com/questions?tab=newest&page=31)
+2021-10-24 15:35:19 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=32>
+{'title': 'Is writing data members inside ctor more pythonic? [duplicate]',
+ 'url': '/questions/69696381/is-writing-data-members-inside-ctor-more-pythonic'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=33>
+{'title': 'Issues publishing to device shadow using the '
+          'aws-iot-device-sdk-python-v2',
+ 'url': '/questions/69696291/issues-publishing-to-device-shadow-using-the-aws-iot-device-sdk-python-v2'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=33>
+{'title': 'TypeError: an integer is required (got type str) python array '
+          '[duplicate]',
+ 'url': '/questions/69696278/typeerror-an-integer-is-required-got-type-str-python-array'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=33>
+{'title': 'Increment the value of a variable once every loop in python',
+ 'url': '/questions/69696255/increment-the-value-of-a-variable-once-every-loop-in-python'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=33>
+{'title': "python doesn't recognize a folder",
+ 'url': '/questions/69696240/python-doesnt-recognize-a-folder'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=33>
+{'title': 'How to sort array based on length and alphabet, where alphabet '
+          'takes precedence over length python',
+ 'url': '/questions/69696227/how-to-sort-array-based-on-length-and-alphabet-where-alphabet-takes-precedence'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436457> (referer: https://stackoverflow.com/questions?tab=newest&page=436459)
+2021-10-24 15:35:20 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436456> (referer: https://stackoverflow.com/questions?tab=newest&page=436458)
+2021-10-24 15:35:20 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=34> (referer: https://stackoverflow.com/questions?tab=newest&page=32)
+2021-10-24 15:35:20 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=35> (referer: https://stackoverflow.com/questions?tab=newest&page=33)
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=34>
+{'title': 'Cannot set configuration file of Mozilla Deepspeech in python',
+ 'url': '/questions/69696191/cannot-set-configuration-file-of-mozilla-deepspeech-in-python'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=35>
+{'title': 'problems with two different python environment messing up',
+ 'url': '/questions/69696109/problems-with-two-different-python-environment-messing-up'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=35>
+{'title': 'How can i use a function from an other python file i named it as '
+          'Features.py I want use the function in a class in main.py',
+ 'url': '/questions/69696083/how-can-i-use-a-function-from-an-other-python-file-i-named-it-as-features-py-i-w'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=35>
+{'title': 'I want to parse Sequences and sequence Ids from a fasta file and '
+          'assign them to Dataframe. I am using SeqIO library from biopython',
+ 'url': '/questions/69696077/i-want-to-parse-sequences-and-sequence-ids-from-a-fasta-file-and-assign-them-to'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=35>
+{'title': 'How to run python process infinetly on linux',
+ 'url': '/questions/69696074/how-to-run-python-process-infinetly-on-linux'}
+2021-10-24 15:35:20 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=35>
+{'title': 'ubuntu20 weird behaviour with python path',
+ 'url': '/questions/69696063/ubuntu20-weird-behaviour-with-python-path'}
+2021-10-24 15:35:21 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436455> (referer: https://stackoverflow.com/questions?tab=newest&page=436457)
+2021-10-24 15:35:21 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436454> (referer: https://stackoverflow.com/questions?tab=newest&page=436456)
+2021-10-24 15:35:21 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=36> (referer: https://stackoverflow.com/questions?tab=newest&page=34)
+2021-10-24 15:35:21 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436454>
+{'title': "What's the best way to distribute python command-line tools?",
+ 'url': '/questions/17893/whats-the-best-way-to-distribute-python-command-line-tools'}
+2021-10-24 15:35:21 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=37> (referer: https://stackoverflow.com/questions?tab=newest&page=35)
+2021-10-24 15:35:21 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=36>
+{'title': 'Modify keys and values of a dict in a list of dicts (python 3)',
+ 'url': '/questions/69696010/modify-keys-and-values-of-a-dict-in-a-list-of-dicts-python-3'}
+2021-10-24 15:35:21 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=36>
+{'title': 'Sending sensitive mail using outlook 365 using python',
+ 'url': '/questions/69696001/sending-sensitive-mail-using-outlook-365-using-python'}
+2021-10-24 15:35:21 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436453> (referer: https://stackoverflow.com/questions?tab=newest&page=436455)
+2021-10-24 15:35:21 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436452> (referer: https://stackoverflow.com/questions?tab=newest&page=436454)
+2021-10-24 15:35:22 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=38> (referer: https://stackoverflow.com/questions?tab=newest&page=36)
+2021-10-24 15:35:22 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=39> (referer: https://stackoverflow.com/questions?tab=newest&page=37)
+2021-10-24 15:35:22 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=38>
+{'title': 'getting python to print out the rows from my csv that are between 2 '
+          'numbers',
+ 'url': '/questions/69695758/getting-python-to-print-out-the-rows-from-my-csv-that-are-between-2-numbers'}
+2021-10-24 15:35:22 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=38>
+{'title': 'Calculate days in months between 2 dates (python)',
+ 'url': '/questions/69695725/calculate-days-in-months-between-2-dates-python'}
+2021-10-24 15:35:22 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=38>
+{'title': 'How to login to bet365 using selenium python',
+ 'url': '/questions/69695721/how-to-login-to-bet365-using-selenium-python'}
+2021-10-24 15:35:22 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=38>
+{'title': "EmailMessage doesn't show correctly in the sent emails with "
+          "python's email and smtplib packages",
+ 'url': '/questions/69695719/emailmessage-doesnt-show-correctly-in-the-sent-emails-with-pythons-email-and-s'}
+2021-10-24 15:35:22 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436451> (referer: https://stackoverflow.com/questions?tab=newest&page=436453)
+2021-10-24 15:35:22 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436450> (referer: https://stackoverflow.com/questions?tab=newest&page=436452)
+2021-10-24 15:35:22 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=40> (referer: https://stackoverflow.com/questions?tab=newest&page=38)
+2021-10-24 15:35:23 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=41> (referer: https://stackoverflow.com/questions?tab=newest&page=39)
+2021-10-24 15:35:23 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=41>
+{'title': 'Always getting a 403 response from curseforge.com (python)',
+ 'url': '/questions/69695487/always-getting-a-403-response-from-curseforge-com-python'}
+2021-10-24 15:35:23 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=41>
+{'title': "Using spearman's rho in python",
+ 'url': '/questions/69695465/using-spearmans-rho-in-python'}
+2021-10-24 15:35:23 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=41>
+{'title': 'Simple Loops python "for"',
+ 'url': '/questions/69695393/simple-loops-python-for'}
+2021-10-24 15:35:23 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436449> (referer: https://stackoverflow.com/questions?tab=newest&page=436451)
+2021-10-24 15:35:23 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436448> (referer: https://stackoverflow.com/questions?tab=newest&page=436450)
+2021-10-24 15:35:23 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=42> (referer: https://stackoverflow.com/questions?tab=newest&page=40)
+2021-10-24 15:35:23 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=43> (referer: https://stackoverflow.com/questions?tab=newest&page=41)
+2021-10-24 15:35:23 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=42>
+{'title': 'python datetime to string to plug into linear regression equation',
+ 'url': '/questions/69695352/python-datetime-to-string-to-plug-into-linear-regression-equation'}
+2021-10-24 15:35:24 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=43>
+{'title': 'Could I create a product with python?',
+ 'url': '/questions/69695269/could-i-create-a-product-with-python'}
+2021-10-24 15:35:24 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=43>
+{'title': 'how does this work python 3.10.0 if loops loops work [closed]',
+ 'url': '/questions/69695231/how-does-this-work-python-3-10-0-if-loops-loops-work'}
+2021-10-24 15:35:24 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=43>
+{'title': 'How do i print out a number triangle in python? Using anything to '
+          'string is not allowed. Only arithmetic operation [closed]',
+ 'url': '/questions/69695199/how-do-i-print-out-a-number-triangle-in-python-using-anything-to-string-is-not'}
+2021-10-24 15:35:24 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436447> (referer: https://stackoverflow.com/questions?tab=newest&page=436449)
+2021-10-24 15:35:24 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436446> (referer: https://stackoverflow.com/questions?tab=newest&page=436448)
+2021-10-24 15:35:24 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=44> (referer: https://stackoverflow.com/questions?tab=newest&page=42)
+2021-10-24 15:35:24 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=45> (referer: https://stackoverflow.com/questions?tab=newest&page=43)
+2021-10-24 15:35:24 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=44>
+{'title': 'Capture all function calls using the python3 re module',
+ 'url': '/questions/69695158/capture-all-function-calls-using-the-python3-re-module'}
+2021-10-24 15:35:24 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=44>
+{'title': 'How to count number of palindrome sequence in a string using python '
+          '[closed]',
+ 'url': '/questions/69695073/how-to-count-number-of-palindrome-sequence-in-a-string-using-python'}
+2021-10-24 15:35:25 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436444> (referer: https://stackoverflow.com/questions?tab=newest&page=436446)
+2021-10-24 15:35:25 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436445> (referer: https://stackoverflow.com/questions?tab=newest&page=436447)
+2021-10-24 15:35:25 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=46> (referer: https://stackoverflow.com/questions?tab=newest&page=44)
+2021-10-24 15:35:25 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=46>
+{'title': "plz help me I can't able to understand where I have done wrong in "
+          'my python code [closed]',
+ 'url': '/questions/69694949/plz-help-me-i-cant-able-to-understand-where-i-have-done-wrong-in-my-python-code'}
+2021-10-24 15:35:25 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=46>
+{'title': 'selenium dropdown menu select python',
+ 'url': '/questions/69694920/selenium-dropdown-menu-select-python'}
+2021-10-24 15:35:25 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=46>
+{'title': 'Writing list in text file in python [closed]',
+ 'url': '/questions/69694911/writing-list-in-text-file-in-python'}
+2021-10-24 15:35:25 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=47> (referer: https://stackoverflow.com/questions?tab=newest&page=45)
+2021-10-24 15:35:25 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=47>
+{'title': 'Create an API Gateway on an existing python project',
+ 'url': '/questions/69694854/create-an-api-gateway-on-an-existing-python-project'}
+2021-10-24 15:35:25 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436442> (referer: https://stackoverflow.com/questions?tab=newest&page=436444)
+2021-10-24 15:35:25 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=47>
+{'title': 'what is the equivalent of python id in kotlin?',
+ 'url': '/questions/69694806/what-is-the-equivalent-of-python-id-in-kotlin'}
+2021-10-24 15:35:26 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436443> (referer: https://stackoverflow.com/questions?tab=newest&page=436444)
+2021-10-24 15:35:26 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=48> (referer: https://stackoverflow.com/questions?tab=newest&page=46)
+2021-10-24 15:35:26 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=48>
+{'title': 'Input as List of dictionary python',
+ 'url': '/questions/69694673/input-as-list-of-dictionary-python'}
+2021-10-24 15:35:26 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=49> (referer: https://stackoverflow.com/questions?tab=newest&page=47)
+2021-10-24 15:35:26 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=49>
+{'title': 'Trying to get an external library module to work for the first time '
+          'in python',
+ 'url': '/questions/69694534/trying-to-get-an-external-library-module-to-work-for-the-first-time-in-python'}
+2021-10-24 15:35:26 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=49>
+{'title': 'Running python in terminal in vs code gives me a syntax error, '
+          'however, manually selecting the code and running it does not give '
+          'me the syntax error',
+ 'url': '/questions/69694531/running-python-in-terminal-in-vs-code-gives-me-a-syntax-error-however-manually'}
+2021-10-24 15:35:26 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436441> (referer: https://stackoverflow.com/questions?tab=newest&page=436442)
+2021-10-24 15:35:26 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436440> (referer: https://stackoverflow.com/questions?tab=newest&page=436442)
+2021-10-24 15:35:27 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=50> (referer: https://stackoverflow.com/questions?tab=newest&page=48)
+2021-10-24 15:35:27 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=51> (referer: https://stackoverflow.com/questions?tab=newest&page=49)
+2021-10-24 15:35:27 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=51>
+{'title': 'How to get random youtube video in python, discord',
+ 'url': '/questions/69694377/how-to-get-random-youtube-video-in-python-discord'}
+2021-10-24 15:35:27 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=51>
+{'title': 'MongoDB Data is not showing in powerbi by using python script',
+ 'url': '/questions/69694355/mongodb-data-is-not-showing-in-powerbi-by-using-python-script'}
+2021-10-24 15:35:27 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436439> (referer: https://stackoverflow.com/questions?tab=newest&page=436441)
+2021-10-24 15:35:27 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436438> (referer: https://stackoverflow.com/questions?tab=newest&page=436440)
+2021-10-24 15:35:28 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=52> (referer: https://stackoverflow.com/questions?tab=newest&page=50)
+2021-10-24 15:35:28 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=53> (referer: https://stackoverflow.com/questions?tab=newest&page=51)
+2021-10-24 15:35:28 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=52>
+{'title': 'Unable to print text from website using python',
+ 'url': '/questions/69694242/unable-to-print-text-from-website-using-python'}
+2021-10-24 15:35:28 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=53>
+{'title': 'How to find the longest repeating sequence using python',
+ 'url': '/questions/69694183/how-to-find-the-longest-repeating-sequence-using-python'}
+2021-10-24 15:35:28 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436437> (referer: https://stackoverflow.com/questions?tab=newest&page=436439)
+2021-10-24 15:35:28 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=53>
+{'title': 'How to clear Data validation in gg sheet using python?',
+ 'url': '/questions/69694116/how-to-clear-data-validation-in-gg-sheet-using-python'}
+2021-10-24 15:35:28 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=53>
+{'title': 'how to access outlook 365 with python',
+ 'url': '/questions/69694103/how-to-access-outlook-365-with-python'}
+2021-10-24 15:35:28 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436437>
+{'title': 'wxpython: How do I examine dragged data in OnDragOver?',
+ 'url': '/questions/26706/wxpython-how-do-i-examine-dragged-data-in-ondragover'}
+2021-10-24 15:35:28 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436436> (referer: https://stackoverflow.com/questions?tab=newest&page=436438)
+2021-10-24 15:35:28 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=54> (referer: https://stackoverflow.com/questions?tab=newest&page=52)
+2021-10-24 15:35:29 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=55> (referer: https://stackoverflow.com/questions?tab=newest&page=53)
+2021-10-24 15:35:29 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=54>
+{'title': 'Sending get request using python urllib',
+ 'url': '/questions/69694090/sending-get-request-using-python-urllib'}
+2021-10-24 15:35:29 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=54>
+{'title': 'Stop python code when reaching N number of lines',
+ 'url': '/questions/69693985/stop-python-code-when-reaching-n-number-of-lines'}
+2021-10-24 15:35:29 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436435> (referer: https://stackoverflow.com/questions?tab=newest&page=436437)
+2021-10-24 15:35:29 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=55>
+{'title': 'AWS version returns bad interpreter error due to python version',
+ 'url': '/questions/69693891/aws-version-returns-bad-interpreter-error-due-to-python-version'}
+2021-10-24 15:35:29 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436434> (referer: https://stackoverflow.com/questions?tab=newest&page=436436)
+2021-10-24 15:35:29 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=56> (referer: https://stackoverflow.com/questions?tab=newest&page=54)
+2021-10-24 15:35:29 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=56>
+{'title': 'Permutation of a list python',
+ 'url': '/questions/69693873/permutation-of-a-list-python'}
+2021-10-24 15:35:29 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=56>
+{'title': 'Data is not showing when I run python code in powerbi. using '
+          'pymongo',
+ 'url': '/questions/69693851/data-is-not-showing-when-i-run-python-code-in-powerbi-using-pymongo'}
+2021-10-24 15:35:29 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=56>
+{'title': 'for pip regarding python 3.10',
+ 'url': '/questions/69693829/for-pip-regarding-python-3-10'}
+2021-10-24 15:35:29 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=56>
+{'title': 'python - how to repeat to write numbers in mysql',
+ 'url': '/questions/69693785/python-how-to-repeat-to-write-numbers-in-mysql'}
+2021-10-24 15:35:29 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=57> (referer: https://stackoverflow.com/questions?tab=newest&page=55)
+2021-10-24 15:35:29 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436433> (referer: https://stackoverflow.com/questions?tab=newest&page=436435)
+2021-10-24 15:35:30 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=57>
+{'title': 'How can I insert a float into a real position in a SQLite database '
+          'with python?',
+ 'url': '/questions/69693703/how-can-i-insert-a-float-into-a-real-position-in-a-sqlite-database-with-python'}
+2021-10-24 15:35:30 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436432> (referer: https://stackoverflow.com/questions?tab=newest&page=436434)
+2021-10-24 15:35:30 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=58> (referer: https://stackoverflow.com/questions?tab=newest&page=56)
+2021-10-24 15:35:30 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436432>
+{'title': "What's the best way to use web services in python?",
+ 'url': '/questions/28961/whats-the-best-way-to-use-web-services-in-python'}
+2021-10-24 15:35:30 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=58>
+{'title': 'extract value by index from a json in python',
+ 'url': '/questions/69693649/extract-value-by-index-from-a-json-in-python'}
+2021-10-24 15:35:30 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=59> (referer: https://stackoverflow.com/questions?tab=newest&page=57)
+2021-10-24 15:35:30 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=59>
+{'title': 'How to calculate the angles between the bounding box python? '
+          '[closed]',
+ 'url': '/questions/69693443/how-to-calculate-the-angles-between-the-bounding-box-python'}
+2021-10-24 15:35:31 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436430> (referer: https://stackoverflow.com/questions?tab=newest&page=436432)
+2021-10-24 15:35:31 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436431> (referer: https://stackoverflow.com/questions?tab=newest&page=436433)
+2021-10-24 15:35:31 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=60> (referer: https://stackoverflow.com/questions?tab=newest&page=58)
+2021-10-24 15:35:31 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436431>
+{'title': 'How do I create an xml document in python',
+ 'url': '/questions/29243/how-do-i-create-an-xml-document-in-python'}
+2021-10-24 15:35:31 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=61> (referer: https://stackoverflow.com/questions?tab=newest&page=59)
+2021-10-24 15:35:31 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=60>
+{'title': 'Is there a way to replace and trim values in individual fields '
+          'using the dbf to csv python library dbf by ethanfurman?',
+ 'url': '/questions/69693423/is-there-a-way-to-replace-and-trim-values-in-individual-fields-using-the-dbf-to'}
+2021-10-24 15:35:31 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=60>
+{'title': 'How do I get python to make new lines within a text file [closed]',
+ 'url': '/questions/69693366/how-do-i-get-python-to-make-new-lines-within-a-text-file'}
+2021-10-24 15:35:31 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=61>
+{'title': 'python + spark streaming - convert KafkaDirectDStream to array',
+ 'url': '/questions/69693323/python-spark-streaming-convert-kafkadirectdstream-to-array'}
+2021-10-24 15:35:31 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=61>
+{'title': 'How to auto minimise CMD when running python shortcut? [closed]',
+ 'url': '/questions/69693299/how-to-auto-minimise-cmd-when-running-python-shortcut'}
+2021-10-24 15:35:31 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436428> (referer: https://stackoverflow.com/questions?tab=newest&page=436430)
+2021-10-24 15:35:31 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436429> (referer: https://stackoverflow.com/questions?tab=newest&page=436430)
+2021-10-24 15:35:32 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=62> (referer: https://stackoverflow.com/questions?tab=newest&page=60)
+2021-10-24 15:35:32 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=63> (referer: https://stackoverflow.com/questions?tab=newest&page=61)
+2021-10-24 15:35:32 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=62>
+{'title': 'How can I put concurrents in my command, example, (.send IP PORT '
+          'TIME METHOD) and until the time expires you cannot run that command '
+          'again, in python [closed]',
+ 'url': '/questions/69693223/how-can-i-put-concurrents-in-my-command-example-send-ip-port-time-method-an'}
+2021-10-24 15:35:32 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436427> (referer: https://stackoverflow.com/questions?tab=newest&page=436428)
+2021-10-24 15:35:32 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436426> (referer: https://stackoverflow.com/questions?tab=newest&page=436428)
+2021-10-24 15:35:33 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=64> (referer: https://stackoverflow.com/questions?tab=newest&page=62)
+2021-10-24 15:35:33 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=65> (referer: https://stackoverflow.com/questions?tab=newest&page=63)
+2021-10-24 15:35:33 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=64>
+{'title': 'Scraping with beautifulsoup and python. Solving how to see the '
+          'bidders name in eBay',
+ 'url': '/questions/69692938/scraping-with-beautifulsoup-and-python-solving-how-to-see-the-bidders-name-in-e'}
+2021-10-24 15:35:33 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=65>
+{'title': 'How to apply multiple functions to a dataframe column parallel in '
+          'python',
+ 'url': '/questions/69692810/how-to-apply-multiple-functions-to-a-dataframe-column-parallel-in-python'}
+2021-10-24 15:35:33 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436425> (referer: https://stackoverflow.com/questions?tab=newest&page=436427)
+2021-10-24 15:35:33 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436424> (referer: https://stackoverflow.com/questions?tab=newest&page=436426)
+2021-10-24 15:35:34 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=66> (referer: https://stackoverflow.com/questions?tab=newest&page=64)
+2021-10-24 15:35:34 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=67> (referer: https://stackoverflow.com/questions?tab=newest&page=65)
+2021-10-24 15:35:34 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=66>
+{'title': 'Importing data from Kinect v2 microphone array using python?',
+ 'url': '/questions/69692785/importing-data-from-kinect-v2-microphone-array-using-python'}
+2021-10-24 15:35:34 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=66>
+{'title': 'Compiling python 3.10 at Amazon Linux 2',
+ 'url': '/questions/69692703/compiling-python-3-10-at-amazon-linux-2'}
+2021-10-24 15:35:34 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=67>
+{'title': 'python-jira integration failed to show Epics of an issue in a '
+          'project',
+ 'url': '/questions/69692634/python-jira-integration-failed-to-show-epics-of-an-issue-in-a-project'}
+2021-10-24 15:35:34 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=67>
+{'title': 'Is there a way I can compare a python output with the data present '
+          'in dynamoDB in AWS?',
+ 'url': '/questions/69692624/is-there-a-way-i-can-compare-a-python-output-with-the-data-present-in-dynamodb-i'}
+2021-10-24 15:35:34 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436422> (referer: https://stackoverflow.com/questions?tab=newest&page=436424)
+2021-10-24 15:35:34 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436423> (referer: https://stackoverflow.com/questions?tab=newest&page=436425)
+2021-10-24 15:35:34 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=68> (referer: https://stackoverflow.com/questions?tab=newest&page=66)
+2021-10-24 15:35:34 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=69> (referer: https://stackoverflow.com/questions?tab=newest&page=67)
+2021-10-24 15:35:35 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=68>
+{'title': 'how to import python file from another folder',
+ 'url': '/questions/69692521/how-to-import-python-file-from-another-folder'}
+2021-10-24 15:35:35 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=68>
+{'title': 'Regex code not finding correct lines in html file in python',
+ 'url': '/questions/69692451/regex-code-not-finding-correct-lines-in-html-file-in-python'}
+2021-10-24 15:35:35 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=69>
+{'title': 'left padding with python',
+ 'url': '/questions/69692365/left-padding-with-python'}
+2021-10-24 15:35:35 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=69>
+{'title': 'python - subprocess command and output (linux command)',
+ 'url': '/questions/69692343/python-subprocess-command-and-output-linux-command'}
+2021-10-24 15:35:35 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436420> (referer: https://stackoverflow.com/questions?tab=newest&page=436422)
+2021-10-24 15:35:35 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436421> (referer: https://stackoverflow.com/questions?tab=newest&page=436422)
+2021-10-24 15:35:35 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436420>
+{'title': 'How to specify an authenticated proxy for a python http connection?',
+ 'url': '/questions/34079/how-to-specify-an-authenticated-proxy-for-a-python-http-connection'}
+2021-10-24 15:35:35 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=70> (referer: https://stackoverflow.com/questions?tab=newest&page=68)
+2021-10-24 15:35:35 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=71> (referer: https://stackoverflow.com/questions?tab=newest&page=69)
+2021-10-24 15:35:35 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=70>
+{'title': 'How can I play audio at the end of my python pygame project?',
+ 'url': '/questions/69692225/how-can-i-play-audio-at-the-end-of-my-python-pygame-project'}
+2021-10-24 15:35:36 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=71>
+{'title': 'Pyinfra run python code inside target host',
+ 'url': '/questions/69692125/pyinfra-run-python-code-inside-target-host'}
+2021-10-24 15:35:36 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=71>
+{'title': 'I got "report missing imports" error in python',
+ 'url': '/questions/69692118/i-got-report-missing-imports-error-in-python'}
+2021-10-24 15:35:36 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=71>
+{'title': 'Sorting a set of lists in order of largest item in python',
+ 'url': '/questions/69692101/sorting-a-set-of-lists-in-order-of-largest-item-in-python'}
+2021-10-24 15:35:36 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=71>
+{'title': 'python: parse a colon-separated formatted string',
+ 'url': '/questions/69692081/python-parse-a-colon-separated-formatted-string'}
+2021-10-24 15:35:36 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436418> (referer: https://stackoverflow.com/questions?tab=newest&page=436420)
+2021-10-24 15:35:36 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436419> (referer: https://stackoverflow.com/questions?tab=newest&page=436420)
+2021-10-24 15:35:36 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=72> (referer: https://stackoverflow.com/questions?tab=newest&page=70)
+2021-10-24 15:35:36 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436419>
+{'title': "Is there a standard (like phpdoc or python's docstring) for "
+          'commenting C# code?',
+ 'url': '/questions/34516/is-there-a-standard-like-phpdoc-or-pythons-docstring-for-commenting-c-sharp-c'}
+2021-10-24 15:35:36 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=72>
+{'title': 'running a function code in python help, not working for some reason '
+          '[closed]',
+ 'url': '/questions/69692055/running-a-function-code-in-python-help-not-working-for-some-reason'}
+2021-10-24 15:35:36 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=72>
+{'title': 'Need Help Making Outlook account creator using selenium python and '
+          '2captcha - Funcaptcha',
+ 'url': '/questions/69692041/need-help-making-outlook-account-creator-using-selenium-python-and-2captcha-fu'}
+2021-10-24 15:35:36 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=72>
+{'title': 'I want to move data from word tables to excel sheet using python '
+          "but can't able to do that, I face error when there are sub columns "
+          'in Table',
+ 'url': '/questions/69692030/i-want-to-move-data-from-word-tables-to-excel-sheet-using-python-but-cant-able'}
+2021-10-24 15:35:36 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=73> (referer: https://stackoverflow.com/questions?tab=newest&page=71)
+2021-10-24 15:35:36 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436417> (referer: https://stackoverflow.com/questions?tab=newest&page=436418)
+2021-10-24 15:35:37 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436416> (referer: https://stackoverflow.com/questions?tab=newest&page=436418)
+2021-10-24 15:35:37 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=73>
+{'title': 'How to use existing ECDSA keys encoded with base58 with python?',
+ 'url': '/questions/69691885/how-to-use-existing-ecdsa-keys-encoded-with-base58-with-python'}
+2021-10-24 15:35:37 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=73>
+{'title': 'problem with python selenium. send_keys not working at all',
+ 'url': '/questions/69691864/problem-with-python-selenium-send-keys-not-working-at-all'}
+2021-10-24 15:35:37 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=73>
+{'title': 'How can I forward messages in Dart using TCP sockets to a server in '
+          'python3?',
+ 'url': '/questions/69691853/how-can-i-forward-messages-in-dart-using-tcp-sockets-to-a-server-in-python3'}
+2021-10-24 15:35:37 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=74> (referer: https://stackoverflow.com/questions?tab=newest&page=72)
+2021-10-24 15:35:37 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=75> (referer: https://stackoverflow.com/questions?tab=newest&page=73)
+2021-10-24 15:35:37 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=75>
+{'title': 'python django webapp packaging sdist',
+ 'url': '/questions/69691638/python-django-webapp-packaging-sdist'}
+2021-10-24 15:35:37 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=75>
+{'title': 'How does windows decide which python executable to use when '
+          'multiple are defined in $env:path?',
+ 'url': '/questions/69691613/how-does-windows-decide-which-python-executable-to-use-when-multiple-are-defined'}
+2021-10-24 15:35:37 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=75>
+{'title': 'nonparametric and polynomial quantiles models in python and R',
+ 'url': '/questions/69691603/nonparametric-and-polynomial-quantiles-models-in-python-and-r'}
+2021-10-24 15:35:37 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=75>
+{'title': 'How to make efficient "broadcasting to localhost" with '
+          'python-flask?',
+ 'url': '/questions/69691594/how-to-make-efficient-broadcasting-to-localhost-with-python-flask'}
+2021-10-24 15:35:37 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436414> (referer: https://stackoverflow.com/questions?tab=newest&page=436416)
+2021-10-24 15:35:37 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436415> (referer: https://stackoverflow.com/questions?tab=newest&page=436417)
+2021-10-24 15:35:38 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436414>
+{'title': '"The system cannot find the file specified" when invoking '
+          'subprocess.Popen in python',
+ 'url': '/questions/36324/the-system-cannot-find-the-file-specified-when-invoking-subprocess-popen-in-py'}
+2021-10-24 15:35:38 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=76> (referer: https://stackoverflow.com/questions?tab=newest&page=74)
+2021-10-24 15:35:38 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=77> (referer: https://stackoverflow.com/questions?tab=newest&page=75)
+2021-10-24 15:35:38 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=76>
+{'title': 'QUrl in python is not directing to the link provided in it i.e '
+          'Google chrome through vs code. It is just showing a empty screen '
+          'with just title',
+ 'url': '/questions/69691523/qurl-in-python-is-not-directing-to-the-link-provided-in-it-i-e-google-chrome-thr'}
+2021-10-24 15:35:38 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=77>
+{'title': 'about mh-z19 of raspi python',
+ 'url': '/questions/69691387/about-mh-z19-of-raspi-python'}
+2021-10-24 15:35:38 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436413> (referer: https://stackoverflow.com/questions?tab=newest&page=436414)
+2021-10-24 15:35:38 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436412> (referer: https://stackoverflow.com/questions?tab=newest&page=436414)
+2021-10-24 15:35:38 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436413>
+{'title': 'Resources for lexing, tokenising and parsing in python',
+ 'url': '/questions/36953/resources-for-lexing-tokenising-and-parsing-in-python'}
+2021-10-24 15:35:39 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=78> (referer: https://stackoverflow.com/questions?tab=newest&page=76)
+2021-10-24 15:35:39 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=79> (referer: https://stackoverflow.com/questions?tab=newest&page=77)
+2021-10-24 15:35:39 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=78>
+{'title': 'How to extract the original response header from a site before '
+          'redirection using the requests module in python',
+ 'url': '/questions/69691285/how-to-extract-the-original-response-header-from-a-site-before-redirection-using'}
+2021-10-24 15:35:39 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436410> (referer: https://stackoverflow.com/questions?tab=newest&page=436412)
+2021-10-24 15:35:39 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436411> (referer: https://stackoverflow.com/questions?tab=newest&page=436413)
+2021-10-24 15:35:39 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436411>
+{'title': 'Filter out HTML tags and resolve entities in python',
+ 'url': '/questions/37486/filter-out-html-tags-and-resolve-entities-in-python'}
+2021-10-24 15:35:40 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=81> (referer: https://stackoverflow.com/questions?tab=newest&page=79)
+2021-10-24 15:35:40 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=80> (referer: https://stackoverflow.com/questions?tab=newest&page=78)
+2021-10-24 15:35:40 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=81>
+{'title': 'How to fix my python kivy folder monitoring app from crashing',
+ 'url': '/questions/69690963/how-to-fix-my-python-kivy-folder-monitoring-app-from-crashing'}
+2021-10-24 15:35:40 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=81>
+{'title': 'Finding all combinations of a list of numbers without the pair '
+          'being the same in python',
+ 'url': '/questions/69690934/finding-all-combinations-of-a-list-of-numbers-without-the-pair-being-the-same-in'}
+2021-10-24 15:35:40 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436408> (referer: https://stackoverflow.com/questions?tab=newest&page=436410)
+2021-10-24 15:35:40 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436409> (referer: https://stackoverflow.com/questions?tab=newest&page=436410)
+2021-10-24 15:35:40 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=83> (referer: https://stackoverflow.com/questions?tab=newest&page=81)
+2021-10-24 15:35:40 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=82> (referer: https://stackoverflow.com/questions?tab=newest&page=81)
+2021-10-24 15:35:41 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=83>
+{'title': 'Parsing data in python to json [duplicate]',
+ 'url': '/questions/69690781/parsing-data-in-python-to-json'}
+2021-10-24 15:35:41 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=83>
+{'title': 'How to use biopython Entrez efetch to get genbank file from "gene" '
+          'database',
+ 'url': '/questions/69690746/how-to-use-biopython-entrez-efetch-to-get-genbank-file-from-gene-database'}
+2021-10-24 15:35:41 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=83>
+{'title': 'Hi, Is there a way to print maximum number of words from a '
+          'wikipedia page python',
+ 'url': '/questions/69690736/hi-is-there-a-way-to-print-maximum-number-of-words-from-a-wikipedia-page-python'}
+2021-10-24 15:35:41 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=82>
+{'title': 'How to convert nested if/else function calls to a dictionary in '
+          'python?',
+ 'url': '/questions/69690852/how-to-convert-nested-if-else-function-calls-to-a-dictionary-in-python'}
+2021-10-24 15:35:41 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436406> (referer: https://stackoverflow.com/questions?tab=newest&page=436408)
+2021-10-24 15:35:41 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436407> (referer: https://stackoverflow.com/questions?tab=newest&page=436408)
+2021-10-24 15:35:41 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=84> (referer: https://stackoverflow.com/questions?tab=newest&page=83)
+2021-10-24 15:35:41 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=85> (referer: https://stackoverflow.com/questions?tab=newest&page=83)
+2021-10-24 15:35:41 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=84>
+{'title': 'to initialize the object only once in python',
+ 'url': '/questions/69690670/to-initialize-the-object-only-once-in-python'}
+2021-10-24 15:35:42 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=85>
+{'title': 'Problem with the python object constructor',
+ 'url': '/questions/69690546/problem-with-the-python-object-constructor'}
+2021-10-24 15:35:42 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=85>
+{'title': 'Where to find good FREE python courses [closed]',
+ 'url': '/questions/69690518/where-to-find-good-free-python-courses'}
+2021-10-24 15:35:42 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436404> (referer: https://stackoverflow.com/questions?tab=newest&page=436406)
+2021-10-24 15:35:42 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436405> (referer: https://stackoverflow.com/questions?tab=newest&page=436406)
+2021-10-24 15:35:42 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=86> (referer: https://stackoverflow.com/questions?tab=newest&page=84)
+2021-10-24 15:35:42 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=87> (referer: https://stackoverflow.com/questions?tab=newest&page=85)
+2021-10-24 15:35:43 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=87>
+{'title': 'I get an error when trying to pull data with telethon with python '
+          'gui',
+ 'url': '/questions/69690346/i-get-an-error-when-trying-to-pull-data-with-telethon-with-python-gui'}
+2021-10-24 15:35:43 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436402> (referer: https://stackoverflow.com/questions?tab=newest&page=436404)
+2021-10-24 15:35:43 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436403> (referer: https://stackoverflow.com/questions?tab=newest&page=436404)
+2021-10-24 15:35:43 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=88> (referer: https://stackoverflow.com/questions?tab=newest&page=86)
+2021-10-24 15:35:43 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=89> (referer: https://stackoverflow.com/questions?tab=newest&page=87)
+2021-10-24 15:35:43 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=88>
+{'title': 'trying to run mysql database command in python',
+ 'url': '/questions/69690217/trying-to-run-mysql-database-command-in-python'}
+2021-10-24 15:35:43 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=88>
+{'title': 'Return the value of bitwise and of consecutive element each time in '
+          'list [python]',
+ 'url': '/questions/69690191/return-the-value-of-bitwise-and-of-consecutive-element-each-time-in-list-python'}
+2021-10-24 15:35:43 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=88>
+{'title': 'Calling a python function when submitting using WTForms',
+ 'url': '/questions/69690133/calling-a-python-function-when-submitting-using-wtforms'}
+2021-10-24 15:35:44 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436400> (referer: https://stackoverflow.com/questions?tab=newest&page=436402)
+2021-10-24 15:35:44 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436401> (referer: https://stackoverflow.com/questions?tab=newest&page=436402)
+2021-10-24 15:35:44 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=90> (referer: https://stackoverflow.com/questions?tab=newest&page=88)
+2021-10-24 15:35:44 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436401>
+{'title': 'How do I do monkeypatching in python?',
+ 'url': '/questions/41562/how-do-i-do-monkeypatching-in-python'}
+2021-10-24 15:35:44 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=91> (referer: https://stackoverflow.com/questions?tab=newest&page=89)
+2021-10-24 15:35:44 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=90>
+{'title': 'Create list of strings for gui from object in python',
+ 'url': '/questions/69690012/create-list-of-strings-for-gui-from-object-in-python'}
+2021-10-24 15:35:44 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=91>
+{'title': 'Crop detected face in python opencv Error [closed]',
+ 'url': '/questions/69689902/crop-detected-face-in-python-opencv-error'}
+2021-10-24 15:35:44 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=91>
+{'title': 'Removing python from usr/bin on Mac OS',
+ 'url': '/questions/69689844/removing-python-from-usr-bin-on-mac-os'}
+2021-10-24 15:35:44 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=91>
+{'title': 'Sending whatsapp message in python(Pywhatkit) fails sometimes',
+ 'url': '/questions/69689835/sending-whatsapp-message-in-pythonpywhatkit-fails-sometimes'}
+2021-10-24 15:35:44 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436399> (referer: https://stackoverflow.com/questions?tab=newest&page=436400)
+2021-10-24 15:35:44 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436398> (referer: https://stackoverflow.com/questions?tab=newest&page=436400)
+2021-10-24 15:35:45 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=92> (referer: https://stackoverflow.com/questions?tab=newest&page=90)
+2021-10-24 15:35:45 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=93> (referer: https://stackoverflow.com/questions?tab=newest&page=91)
+2021-10-24 15:35:45 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=92>
+{'title': 'Collecting data from rotten tomatoes using python API',
+ 'url': '/questions/69689784/collecting-data-from-rotten-tomatoes-using-python-api'}
+2021-10-24 15:35:45 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=92>
+{'title': 'How can I randomly apply rotation and flip to arrays in a list of '
+          'using python?',
+ 'url': '/questions/69689771/how-can-i-randomly-apply-rotation-and-flip-to-arrays-in-a-list-of-using-python'}
+2021-10-24 15:35:45 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436489> (referer: https://stackoverflow.com/questions?tab=newest&page=436399)
+2021-10-24 15:35:45 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=93>
+{'title': 'Post in flask (python 3.8)',
+ 'url': '/questions/69689704/post-in-flask-python-3-8'}
+2021-10-24 15:35:45 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436396> (referer: https://stackoverflow.com/questions?tab=newest&page=436398)
+2021-10-24 15:35:45 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436397> (referer: https://stackoverflow.com/questions?tab=newest&page=436399)
+2021-10-24 15:35:45 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436396>
+{'title': 'How to find the mime type of a file in python?',
+ 'url': '/questions/43580/how-to-find-the-mime-type-of-a-file-in-python'}
+2021-10-24 15:35:45 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=94> (referer: https://stackoverflow.com/questions?tab=newest&page=92)
+2021-10-24 15:35:45 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436397>
+{'title': 'A python web application framework for tight DB/GUI coupling?',
+ 'url': '/questions/43368/a-python-web-application-framework-for-tight-db-gui-coupling'}
+2021-10-24 15:35:46 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=95> (referer: https://stackoverflow.com/questions?tab=newest&page=93)
+2021-10-24 15:35:46 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=95>
+{'title': 'Try to import python files in colab files [closed]',
+ 'url': '/questions/69689491/try-to-import-python-files-in-colab-files'}
+2021-10-24 15:35:46 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=95>
+{'title': 'Pre-processing class call with decorator (python)',
+ 'url': '/questions/69689449/pre-processing-class-call-with-decorator-python'}
+2021-10-24 15:35:46 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=95>
+{'title': '1D Gaussian filter horizontally and vertically in python',
+ 'url': '/questions/69689414/1d-gaussian-filter-horizontally-and-vertically-in-python'}
+2021-10-24 15:35:46 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=95>
+{'title': 'Send complex objects which contains pointers with multiprocessing '
+          'python package',
+ 'url': '/questions/69689409/send-complex-objects-which-contains-pointers-with-multiprocessing-python-package'}
+2021-10-24 15:35:46 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436395> (referer: https://stackoverflow.com/questions?tab=newest&page=436396)
+2021-10-24 15:35:46 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436394> (referer: https://stackoverflow.com/questions?tab=newest&page=436396)
+2021-10-24 15:35:46 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=96> (referer: https://stackoverflow.com/questions?tab=newest&page=94)
+2021-10-24 15:35:46 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=96>
+{'title': 'python merging dfs and turning to dictionary',
+ 'url': '/questions/69689390/python-merging-dfs-and-turning-to-dictionary'}
+2021-10-24 15:35:46 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=97> (referer: https://stackoverflow.com/questions?tab=newest&page=95)
+2021-10-24 15:35:47 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=97>
+{'title': 'How to send and receive data to a python file with Brython?',
+ 'url': '/questions/69689221/how-to-send-and-receive-data-to-a-python-file-with-brython'}
+2021-10-24 15:35:47 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436393> (referer: https://stackoverflow.com/questions?tab=newest&page=436395)
+2021-10-24 15:35:47 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436392> (referer: https://stackoverflow.com/questions?tab=newest&page=436394)
+2021-10-24 15:35:47 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=98> (referer: https://stackoverflow.com/questions?tab=newest&page=96)
+2021-10-24 15:35:47 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=99> (referer: https://stackoverflow.com/questions?tab=newest&page=97)
+2021-10-24 15:35:47 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436392>
+{'title': 'Good python library for generating audio files? [closed]',
+ 'url': '/questions/45385/good-python-library-for-generating-audio-files'}
+2021-10-24 15:35:47 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=99>
+{'title': 'multithreaded selenium python',
+ 'url': '/questions/69689034/multithreaded-selenium-python'}
+2021-10-24 15:35:48 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436391> (referer: https://stackoverflow.com/questions?tab=newest&page=436393)
+2021-10-24 15:35:48 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436390> (referer: https://stackoverflow.com/questions?tab=newest&page=436392)
+2021-10-24 15:35:48 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=100> (referer: https://stackoverflow.com/questions?tab=newest&page=98)
+2021-10-24 15:35:48 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=101> (referer: https://stackoverflow.com/questions?tab=newest&page=99)
+2021-10-24 15:35:48 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=100>
+{'title': 'Unable to print data in python',
+ 'url': '/questions/69688955/unable-to-print-data-in-python'}
+2021-10-24 15:35:48 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=100>
+{'title': 'Extracting and aggregating data out of filenames in python or '
+          'pandas',
+ 'url': '/questions/69688894/extracting-and-aggregating-data-out-of-filenames-in-python-or-pandas'}
+2021-10-24 15:35:48 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=100>
+{'title': 'How to get the XHR content with python? [closed]',
+ 'url': '/questions/69688891/how-to-get-the-xhr-content-with-python'}
+2021-10-24 15:35:48 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436389> (referer: https://stackoverflow.com/questions?tab=newest&page=436391)
+2021-10-24 15:35:49 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436388> (referer: https://stackoverflow.com/questions?tab=newest&page=436390)
+2021-10-24 15:35:49 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=102> (referer: https://stackoverflow.com/questions?tab=newest&page=100)
+2021-10-24 15:35:49 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=103> (referer: https://stackoverflow.com/questions?tab=newest&page=101)
+2021-10-24 15:35:49 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=103>
+{'title': 'Unable to remove python and ubuntu docker images',
+ 'url': '/questions/69688584/unable-to-remove-python-and-ubuntu-docker-images'}
+2021-10-24 15:35:49 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=103>
+{'title': 'overlay on other windows/desktop with python',
+ 'url': '/questions/69688576/overlay-on-other-windows-desktop-with-python'}
+2021-10-24 15:35:49 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=103>
+{'title': 'How can I sort a list for sentence alphabetically in python based '
+          'on 2nd or 3rd word or something like that',
+ 'url': '/questions/69688550/how-can-i-sort-a-list-for-sentence-alphabetically-in-python-based-on-2nd-or-3rd'}
+2021-10-24 15:35:49 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436387> (referer: https://stackoverflow.com/questions?tab=newest&page=436389)
+2021-10-24 15:35:49 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436386> (referer: https://stackoverflow.com/questions?tab=newest&page=436388)
+2021-10-24 15:35:50 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=104> (referer: https://stackoverflow.com/questions?tab=newest&page=102)
+2021-10-24 15:35:50 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=105> (referer: https://stackoverflow.com/questions?tab=newest&page=103)
+2021-10-24 15:35:50 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=104>
+{'title': 'Unknown warnings while running selenium script using python',
+ 'url': '/questions/69688463/unknown-warnings-while-running-selenium-script-using-python'}
+2021-10-24 15:35:50 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436385> (referer: https://stackoverflow.com/questions?tab=newest&page=436387)
+2021-10-24 15:35:50 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436384> (referer: https://stackoverflow.com/questions?tab=newest&page=436386)
+2021-10-24 15:35:50 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436385>
+{'title': 'What are the advantages of packaging your python '
+          'library/application as an .egg file?',
+ 'url': '/questions/47953/what-are-the-advantages-of-packaging-your-python-library-application-as-an-egg'}
+2021-10-24 15:35:51 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=107> (referer: https://stackoverflow.com/questions?tab=newest&page=105)
+2021-10-24 15:35:51 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=106> (referer: https://stackoverflow.com/questions?tab=newest&page=104)
+2021-10-24 15:35:51 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=106>
+{'title': 'Why strip() does not clear all whitespaces in python?',
+ 'url': '/questions/69688270/why-strip-does-not-clear-all-whitespaces-in-python'}
+2021-10-24 15:35:51 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=106>
+{'title': 'How to calculate all combinations of a Formula 1 race in '
+          'python/itertools',
+ 'url': '/questions/69688241/how-to-calculate-all-combinations-of-a-formula-1-race-in-python-itertools'}
+2021-10-24 15:35:51 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=106>
+{'title': 'python memoization', 'url': '/questions/69688201/python-memoization'}
+2021-10-24 15:35:51 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436383> (referer: https://stackoverflow.com/questions?tab=newest&page=436385)
+2021-10-24 15:35:51 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436382> (referer: https://stackoverflow.com/questions?tab=newest&page=436384)
+2021-10-24 15:35:51 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436383>
+{'title': 'How do I turn a python program into an .egg file?',
+ 'url': '/questions/49164/how-do-i-turn-a-python-program-into-an-egg-file'}
+2021-10-24 15:35:51 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436383>
+{'title': 'Calling python from a c++ program for distribution',
+ 'url': '/questions/49137/calling-python-from-a-c-program-for-distribution'}
+2021-10-24 15:35:51 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=109> (referer: https://stackoverflow.com/questions?tab=newest&page=107)
+2021-10-24 15:35:51 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=108> (referer: https://stackoverflow.com/questions?tab=newest&page=107)
+2021-10-24 15:35:51 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436382>
+{'title': 'How do I turn a python program into an .egg file?',
+ 'url': '/questions/49164/how-do-i-turn-a-python-program-into-an-egg-file'}
+2021-10-24 15:35:52 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=109>
+{'title': 'Convert a python dictionary to a input for tensorflow',
+ 'url': '/questions/69687957/convert-a-python-dictionary-to-a-input-for-tensorflow'}
+2021-10-24 15:35:52 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=109>
+{'title': "Using python's multi-threading to process elements from a list",
+ 'url': '/questions/69687892/using-pythons-multi-threading-to-process-elements-from-a-list'}
+2021-10-24 15:35:52 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436381> (referer: https://stackoverflow.com/questions?tab=newest&page=436383)
+2021-10-24 15:35:52 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436380> (referer: https://stackoverflow.com/questions?tab=newest&page=436382)
+2021-10-24 15:35:52 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=111> (referer: https://stackoverflow.com/questions?tab=newest&page=109)
+2021-10-24 15:35:52 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=110> (referer: https://stackoverflow.com/questions?tab=newest&page=108)
+2021-10-24 15:35:53 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436379> (referer: https://stackoverflow.com/questions?tab=newest&page=436381)
+2021-10-24 15:35:53 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436378> (referer: https://stackoverflow.com/questions?tab=newest&page=436380)
+2021-10-24 15:35:53 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436378>
+{'title': 'What is the simplest way to find the difference between 2 times in '
+          'python?',
+ 'url': '/questions/51010/what-is-the-simplest-way-to-find-the-difference-between-2-times-in-python'}
+2021-10-24 15:35:53 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=113> (referer: https://stackoverflow.com/questions?tab=newest&page=111)
+2021-10-24 15:35:53 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=112> (referer: https://stackoverflow.com/questions?tab=newest&page=111)
+2021-10-24 15:35:53 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=113>
+{'title': 'Gedit python plugin scrolling by 1 line (Ubuntu 20.04)',
+ 'url': '/questions/69687459/gedit-python-plugin-scrolling-by-1-line-ubuntu-20-04'}
+2021-10-24 15:35:53 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436377> (referer: https://stackoverflow.com/questions?tab=newest&page=436379)
+2021-10-24 15:35:53 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=112>
+{'title': "ImportError: cnot import - 'kneeLocator' from 'kneed' "
+          '(/usr/local/lib/python3.7/dist-packages/kneed/__init__.py)',
+ 'url': '/questions/69687650/importerror-cnot-import-kneelocator-from-kneed-usr-local-lib-python3-7'}
+2021-10-24 15:35:53 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=112>
+{'title': 'Running into an error when trying to pip install python-docx',
+ 'url': '/questions/69687604/running-into-an-error-when-trying-to-pip-install-python-docx'}
+2021-10-24 15:35:53 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=112>
+{'title': 'how to make python standalone scripts that accept command line '
+          'arguments? [duplicate]',
+ 'url': '/questions/69687585/how-to-make-python-standalone-scripts-that-accept-command-line-arguments'}
+2021-10-24 15:35:54 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436376> (referer: https://stackoverflow.com/questions?tab=newest&page=436378)
+2021-10-24 15:35:54 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436376>
+{'title': 'Passing on named variable arguments in python',
+ 'url': '/questions/51412/passing-on-named-variable-arguments-in-python'}
+2021-10-24 15:35:54 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=115> (referer: https://stackoverflow.com/questions?tab=newest&page=113)
+2021-10-24 15:35:54 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=114> (referer: https://stackoverflow.com/questions?tab=newest&page=113)
+2021-10-24 15:35:54 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436375> (referer: https://stackoverflow.com/questions?tab=newest&page=436377)
+2021-10-24 15:35:54 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=114>
+{'title': 'How can I create a sequence of repeating numbers based on another '
+          'column in python?',
+ 'url': '/questions/69687434/how-can-i-create-a-sequence-of-repeating-numbers-based-on-another-column-in-pyth'}
+2021-10-24 15:35:54 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436374> (referer: https://stackoverflow.com/questions?tab=newest&page=436376)
+2021-10-24 15:35:54 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=114>
+{'title': 'python-matplotlib: How to change axis scale multiplier label font '
+          'size?',
+ 'url': '/questions/69687331/python-matplotlib-how-to-change-axis-scale-multiplier-label-font-size'}
+2021-10-24 15:35:54 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436375>
+{'title': 'Cross-platform space remaining on volume using python',
+ 'url': '/questions/51658/cross-platform-space-remaining-on-volume-using-python'}
+2021-10-24 15:35:55 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=117> (referer: https://stackoverflow.com/questions?tab=newest&page=115)
+2021-10-24 15:35:55 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=116> (referer: https://stackoverflow.com/questions?tab=newest&page=115)
+2021-10-24 15:35:55 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=117>
+{'title': 'Need to Import the data from MongoDB to PowerBI using python Script',
+ 'url': '/questions/69687107/need-to-import-the-data-from-mongodb-to-powerbi-using-python-script'}
+2021-10-24 15:35:55 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=117>
+{'title': "how to fix AttributeError: 'Sketcher' object has no attribute "
+          "'draw_meta_data_block' on python [closed]",
+ 'url': '/questions/69687062/how-to-fix-attributeerror-sketcher-object-has-no-attribute-draw-meta-data-bl'}
+2021-10-24 15:35:55 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=117>
+{'title': 'Is there a way to incorporate images in a standalone HTML from a '
+          'bokeh python code?',
+ 'url': '/questions/69687032/is-there-a-way-to-incorporate-images-in-a-standalone-html-from-a-bokeh-python-co'}
+2021-10-24 15:35:55 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=116>
+{'title': 'Running a computation-heavy python script with child_process',
+ 'url': '/questions/69687176/running-a-computation-heavy-python-script-with-child-process'}
+2021-10-24 15:35:55 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436373> (referer: https://stackoverflow.com/questions?tab=newest&page=436374)
+2021-10-24 15:35:55 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436372> (referer: https://stackoverflow.com/questions?tab=newest&page=436374)
+2021-10-24 15:35:55 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=118> (referer: https://stackoverflow.com/questions?tab=newest&page=117)
+2021-10-24 15:35:56 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=119> (referer: https://stackoverflow.com/questions?tab=newest&page=117)
+2021-10-24 15:35:56 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=118>
+{'title': "AuthorizationError on 'submit_for_settlement'=True Braintree python",
+ 'url': '/questions/69686969/authorizationerror-on-submit-for-settlement-true-braintree-python'}
+2021-10-24 15:35:56 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=118>
+{'title': 'How to convert .mha to .stl with python',
+ 'url': '/questions/69686963/how-to-convert-mha-to-stl-with-python'}
+2021-10-24 15:35:56 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=118>
+{'title': 'I had a problem with python library pikepdf',
+ 'url': '/questions/69686925/i-had-a-problem-with-python-library-pikepdf'}
+2021-10-24 15:35:56 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=119>
+{'title': 'python throws NoneType error when trying to write to yaml file',
+ 'url': '/questions/69686855/python-throws-nonetype-error-when-trying-to-write-to-yaml-file'}
+2021-10-24 15:35:56 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=119>
+{'title': 'How do I show the fibonacci recursive tree on python',
+ 'url': '/questions/69686812/how-do-i-show-the-fibonacci-recursive-tree-on-python'}
+2021-10-24 15:35:56 [scrapy] DEBUG: Crawled (429) <GET https://stackoverflow.com/questions?tab=newest&page=120> (referer: https://stackoverflow.com/questions?tab=newest&page=118)
+2021-10-24 15:35:56 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436371> (referer: https://stackoverflow.com/questions?tab=newest&page=436373)
+2021-10-24 15:35:56 [scrapy] DEBUG: Crawled (200) <GET https://stackoverflow.com/questions?tab=newest&page=436370> (referer: https://stackoverflow.com/questions?tab=newest&page=436372)
+2021-10-24 15:35:56 [scrapy] INFO: Ignoring response <429 https://stackoverflow.com/questions?tab=newest&page=120>: HTTP status code is not handled or not allowed
+2021-10-24 15:35:56 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436371>
+{'title': 'What are some strategies to write python code that works in '
+          'CPython, Jython and IronPython',
+ 'url': '/questions/53543/what-are-some-strategies-to-write-python-code-that-works-in-cpython-jython-and'}
+2021-10-24 15:35:56 [scrapy] DEBUG: Crawled (429) <GET https://stackoverflow.com/questions?tab=newest&page=121> (referer: https://stackoverflow.com/questions?tab=newest&page=119)
+2021-10-24 15:35:56 [scrapy] DEBUG: Scraped from <200 https://stackoverflow.com/questions?tab=newest&page=436371>
+{'title': 'How do you check whether a python method is bound or not?',
+ 'url': '/questions/53225/how-do-you-check-whether-a-python-method-is-bound-or-not'}
+2021-10-24 15:35:56 [scrapy] INFO: Ignoring response <429 https://stackoverflow.com/questions?tab=newest&page=121>: HTTP status code is not handled or not allowed
+2021-10-24 15:35:57 [scrapy] DEBUG: Crawled (429) <GET https://stackoverflow.com/questions?tab=newest&page=436369> (referer: https://stackoverflow.com/questions?tab=newest&page=436371)
+2021-10-24 15:35:57 [scrapy] DEBUG: Crawled (429) <GET https://stackoverflow.com/questions?tab=newest&page=436368> (referer: https://stackoverflow.com/questions?tab=newest&page=436370)
+2021-10-24 15:35:57 [scrapy] INFO: Ignoring response <429 https://stackoverflow.com/questions?tab=newest&page=436369>: HTTP status code is not handled or not allowed
+2021-10-24 15:35:57 [scrapy] INFO: Ignoring response <429 https://stackoverflow.com/questions?tab=newest&page=436368>: HTTP status code is not handled or not allowed
+2021-10-24 15:35:57 [scrapy] INFO: Closing spider (finished)
+2021-10-24 15:35:57 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 96744,
+ 'downloader/request_count': 245,
+ 'downloader/request_method_count/GET': 245,
+ 'downloader/response_bytes': 12754060,
+ 'downloader/response_count': 245,
+ 'downloader/response_status_count/200': 240,
+ 'downloader/response_status_count/301': 1,
+ 'downloader/response_status_count/429': 4,
+ 'dupefilter/filtered': 1427,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2021, 10, 24, 18, 35, 57, 132443),
+ 'httperror/response_ignored_count': 4,
+ 'httperror/response_ignored_status_count/429': 4,
+ 'item_scraped_count': 208,
+ 'log_count/DEBUG': 454,
+ 'log_count/INFO': 10,
+ 'memusage/max': 49819648,
+ 'memusage/startup': 49819648,
+ 'request_depth_max': 60,
+ 'response_received_count': 244,
+ 'scheduler/dequeued': 245,
+ 'scheduler/dequeued/memory': 245,
+ 'scheduler/enqueued': 245,
+ 'scheduler/enqueued/memory': 245,
+ 'start_time': datetime.datetime(2021, 10, 24, 18, 35, 4, 984885)}
+2021-10-24 15:35:57 [scrapy] INFO: Spider closed (finished)
