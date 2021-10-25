@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+import urllib
+
 # Scrapy settings for stack project
 #
 # For simplicity, this file contains only settings considered important or
@@ -13,6 +15,13 @@ BOT_NAME = 'stack'
 
 SPIDER_MODULES = ['stack.spiders']
 NEWSPIDER_MODULE = 'stack.spiders'
+
+ITEM_PIPELINES = {'stack.pipelines.MongoDBPipeline': 300, }
+
+MONGODB_SERVER = "mongodb+srv://CaioMassucato:webcrawlerpaa@cluster0.sas1m.mongodb.net/Webcrawler?retryWrites=true&w=majority"
+MONGODB_DB = "stackcrawler"
+MONGODB_COLLECTION = "questions"
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'stack (+http://www.yourdomain.com)'

@@ -8,7 +8,7 @@ from scrapy.exceptions import CloseSpider
 
 class PageCrawlSpider(CrawlSpider):
     name = "stackcrawler"
-    max_pages = 20
+    max_pages = 10000
     count = 0
     allowed_domains = ["stackoverflow.com"]
     start_urls = [
